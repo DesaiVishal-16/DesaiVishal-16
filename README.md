@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DesaiVishal-16l&label=Profile%20views&color=0e75b6&style=flat" alt="DesaiVishal-16" /> </p>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Open-Source
 - 💬 Ask me about Anything Web Devlopment Related
 - 😄 Pronouns: He/Him
