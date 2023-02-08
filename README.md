@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="left">Hi 👋, I'm Vishal Desai</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
