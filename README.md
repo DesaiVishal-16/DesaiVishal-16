@@ -21,21 +21,6 @@
 - HTML & CSS PROJECTS [CLICK HERE](https://github.com/DesaiVishal-16/FSJS2.O/tree/main/HTML%20CSS%20Assignment)
 
 
-<details align="left">
-  <summary align="left">:zap: GitHub Stats</summary>
-
-
-</details>
-
-
-<!-- <details>
-  <summary align="left">:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwxyz" />
-
-</details> -->
-
-#
 
 ### Languages and Tools:
 <p>
