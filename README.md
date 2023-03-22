@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Open-Source
 - 💬 Ask me about Anything Web Devlopment Related
 - 😄 Pronouns: He/Him
