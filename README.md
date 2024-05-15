@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on Open-Source
 - 💬 Ask me about Anything Web Devlopment Related
 - 📫 How to reach me **vishaldesaidotcom@gmail.com**
-- HTML & CSS PROJECTS [CLICK HERE](https://github.com/DesaiVishal-16/FSJS2.O/tree/main/HTML%20CSS%20Assignment)
+
 
 
 
