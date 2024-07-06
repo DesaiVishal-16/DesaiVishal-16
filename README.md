@@ -9,7 +9,7 @@
   I'm Vishal,currently learning  full-stack Web Developement from <a href="https://ineuron.ai" target="_blank">Ineuron.ai</a> ,I like to explore new trends and learn new technologies. I'm currently learning React and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related </b>.
 </p>
 
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Backend 
 - 👯 I’m looking to collaborate on Open-Source
 - 💬 Ask me about Anything Web Devlopment Related
 - 📫 How to reach me **vishaldesaidotcom@gmail.com**
