@@ -23,11 +23,9 @@
 <img alt="JavaScript" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
 <img alt="bootstrap" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
 <img alt="mongoDB" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"/>
-<img alt="angular" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png"/>
 <img alt="sql" width="22px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 <img alt="react" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"/>
 <img alt="redux" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png"/>
-<img alt="vuejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png"/>
 <img alt="nodejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"/>
 </p>
 
